@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
     //this is a test for gitHub
     public static Scanner scanner;  // Note: Do not change this line.
-
+//***************************************//////////
     /**
      * Scans the number of games, than plays the student game the specified amount of times.
      *
