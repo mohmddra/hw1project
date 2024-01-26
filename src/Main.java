@@ -3,6 +3,7 @@ import java.io.IOException;
 import java.util.Scanner;
 
 public class Main {
+    //this is a test for gitHub
     public static Scanner scanner;  // Note: Do not change this line.
 
     /**
